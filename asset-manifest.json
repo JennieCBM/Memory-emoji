@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Memory-emoji/static/css/main.e5794f88.chunk.css",
+    "main.js": "/Memory-emoji/static/js/main.7f0ff26c.chunk.js",
+    "main.js.map": "/Memory-emoji/static/js/main.7f0ff26c.chunk.js.map",
+    "runtime-main.js": "/Memory-emoji/static/js/runtime-main.fb9e1e58.js",
+    "runtime-main.js.map": "/Memory-emoji/static/js/runtime-main.fb9e1e58.js.map",
+    "static/js/2.2ddaf1e9.chunk.js": "/Memory-emoji/static/js/2.2ddaf1e9.chunk.js",
+    "static/js/2.2ddaf1e9.chunk.js.map": "/Memory-emoji/static/js/2.2ddaf1e9.chunk.js.map",
+    "index.html": "/Memory-emoji/index.html",
+    "precache-manifest.48f6f5e53b6a7d40c1a235f5a4805577.js": "/Memory-emoji/precache-manifest.48f6f5e53b6a7d40c1a235f5a4805577.js",
+    "service-worker.js": "/Memory-emoji/service-worker.js",
+    "static/css/main.e5794f88.chunk.css.map": "/Memory-emoji/static/css/main.e5794f88.chunk.css.map",
+    "static/js/2.2ddaf1e9.chunk.js.LICENSE.txt": "/Memory-emoji/static/js/2.2ddaf1e9.chunk.js.LICENSE.txt",
+    "static/media/crying.jpg": "/Memory-emoji/static/media/crying.af1e0f1c.jpg",
+    "static/media/death.jpg": "/Memory-emoji/static/media/death.9188e7ee.jpg",
+    "static/media/flirting.png": "/Memory-emoji/static/media/flirting.2682323a.png",
+    "static/media/glasses.jpg": "/Memory-emoji/static/media/glasses.e0946023.jpg",
+    "static/media/kiss.jpg": "/Memory-emoji/static/media/kiss.06e3b5c3.jpg",
+    "static/media/no-smouth.jpg": "/Memory-emoji/static/media/no-smouth.97c69004.jpg",
+    "static/media/pokerface.png": "/Memory-emoji/static/media/pokerface.c5e70462.png",
+    "static/media/rolling-eyes.jpg": "/Memory-emoji/static/media/rolling-eyes.653887e7.jpg",
+    "static/media/sad.png": "/Memory-emoji/static/media/sad.3f76cc89.png",
+    "static/media/sleeping.jpg": "/Memory-emoji/static/media/sleeping.0b0745c1.jpg",
+    "static/media/smile.jpg": "/Memory-emoji/static/media/smile.10fb75f0.jpg",
+    "static/media/sweat.jpg": "/Memory-emoji/static/media/sweat.8a59e158.jpg",
+    "static/media/upset.jpg": "/Memory-emoji/static/media/upset.f3bfb949.jpg",
+    "static/media/wink.jpg": "/Memory-emoji/static/media/wink.326b038b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb9e1e58.js",
+    "static/js/2.2ddaf1e9.chunk.js",
+    "static/css/main.e5794f88.chunk.css",
+    "static/js/main.7f0ff26c.chunk.js"
+  ]
+}
